@@ -1,0 +1,4 @@
+# Engineering
+Public repository for Systems Engineering (Infrastructure)
+
+THE CONTENTS OF THIS REPOSITORY HAVE BEEN INTENTIONALLY LEFT PUBLIC AND CONTAIN NO PROPRIETARY INFORMATION.
