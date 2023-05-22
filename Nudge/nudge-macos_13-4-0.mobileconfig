@@ -135,7 +135,7 @@
 							<key>mainHeader</key>
 							<string>Your device requires a macOS Security Update</string>
 							<key>primaryQuitButtonText</key>
-							<string>Later</string>
+							<string>Let Me Save My Work</string>
 							<key>secondaryQuitButtonText</key>
 							<string>I Understand</string>
 							<key>subHeader</key>
