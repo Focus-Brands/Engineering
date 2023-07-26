@@ -37,7 +37,7 @@
 						<key>requiredInstallationDate</key>
 						<date>2023-07-28T13:00:01Z</date>
 						<key>requiredMinimumOSVersion</key>
-						<string>13.5</string>
+						<string>13.5.0</string>
 					</dict>
 				</array>
 				<key>PayloadDescription</key>
